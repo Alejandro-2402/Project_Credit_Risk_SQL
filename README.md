@@ -130,7 +130,7 @@ FROM Prestamos
 WHERE Tasa_Interes IS NULL;
 ```
 
-![resultado_q1](PICTURES\resultado_q1.png)
+![resultado_q1](PICTURES/resultado_q1.png)
 
 
 ### 2. Volumetría y Ticket Promedio
@@ -146,7 +146,7 @@ SELECT
 FROM Prestamos;
 ```
 
-![resultado_q2](PICTURES\resultado_q2.png)
+![resultado_q2](PICTURES/resultado_q2.png)
 
 ### 3. Anomalías Demográficas (Outliers)
 
@@ -164,7 +164,7 @@ WHERE
     Años_Empleo > Edad;
 ```
 
-![resultado_q3](PICTURES\resultado_q3.png)
+![resultado_q3](PICTURES/resultado_q3.png)
 
 ### 4. Distribución de Vivienda
 
@@ -180,7 +180,7 @@ FROM Clientes
 GROUP BY Tipo_Vivienda;
 ```
 
-![resultado_q4](PICTURES\resultado_q4.png)
+![resultado_q4](PICTURES/resultado_q4.png)
 
 ### 5. Concentración por motivos de préstamo
 
@@ -197,7 +197,7 @@ GROUP BY Motivo_Prestamo
     ORDER BY CANTIDAD_MOTIVO DESC;
 ```
 
-![resultado_q5](PICTURES\resultado_q5.png)
+![resultado_q5](PICTURES/resultado_q5.png)
 
 
 ### Hallazgos Clave y Conclusiones de Negocio:

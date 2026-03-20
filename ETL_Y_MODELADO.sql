@@ -81,4 +81,3 @@ FROM Data_Cruda;
 
 --- NORMALIZACION COMPLETADA ---
 
--- PREGUNTAS --

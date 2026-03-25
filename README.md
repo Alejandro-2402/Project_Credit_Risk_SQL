@@ -480,8 +480,11 @@ ORDER BY
 ```
 
 ![resultado_q15_1](PICTURES/resultado_q15_1.png)
+
 ![reultado_q15_2](PICTURES/resultado_q15_2.png)
+
 ![reultado_q15_3](PICTURES/resultado_q15_3.png)
+
 ![reultado_q15_4](PICTURES/resultado_q15_4.png)
 
 Segmenté la cartera de clientes en mora en 4 cuartiles. Siendo el Cuartil 1 el que contiene a los deudores con mayor impacto financiero, permitiendo al equipo de cobranzas priorizar sus acciones diarias y maximizar la recuperación del capital.
